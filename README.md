@@ -48,3 +48,5 @@ The Power BI dashboard provides interactive analysis of:
 ## Conclusion
 This project demonstrates an end-to-end analytics workflow that transforms raw data into actionable business insights, supporting strategic decision-making and customer retention efforts.
 
+Predictive Modeling (Extension of Analysis)
+
